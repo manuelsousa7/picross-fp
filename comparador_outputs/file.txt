@@ -1,0 +1,17 @@
+# -- Construtores: cria_tabuleiro -- # 
+>>> cria_tabuleiro(((3,),(3,),(1,),(2,),(3,),(2,)))
+cria_tabuleiro: argumentos invalidos
+>>> cria_tabuleiro((((3,),(3,),(1,),(2,),(3,),(2,))))
+cria_tabuleiro: argumentos invalidos
+>>> T = cria_tabuleiro((((1,),(3,),(1,)),((3,),(1,),(1,))))
+# -- Reconhecedor: e_tabuleiro -- #
+>>> e_tabuleiro(T)
+True
+# -- Operador de saida: escreve_tabuleiro -- #
+>>> escreve_tabuleiro(T)
+  3    1    1    
+[ ? ][ ? ][ ? ] 1|
+[ ? ][ ? ][ ? ] 3|
+[ ? ][ ? ][ ? ] 1|
+
+None

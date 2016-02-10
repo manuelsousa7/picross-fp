@@ -1,0 +1,70 @@
+load_namespace('coordenada')
+c = cria_coordenada(1, 1)
+t = cria_tabuleiro((((2,),(3,),(2,),(2,2),(2,)), ((2,),(1,2),(2,),(3,),(3,))))
+v = tabuleiro_celula(t, c)
+v
+t = tabuleiro_preenche_celula(t, c, v + 1)
+escreve_tabuleiro(t)
+c = cria_coordenada(6, 6)
+tabuleiro_celula(t, c)
+tabuleiro_preenche_celula(t, c, v + 1)
+j1 = pede_jogada(t)
+(2 : 2)
+2
+e_jogada(j1)
+j2 = cria_jogada(cria_coordenada(2, 2), v+1)
+jogadas_iguais(j1, j2)
+jogada_para_cadeia(j1)
+reset_namespace()
+print('No runtime problems encountered.')
+
+ devia retornar 
+
+
+
+0
+       1                   
+  2    2    2    3    3    
+[ . ][ ? ][ ? ][ ? ][ ? ] 2  |
+[ ? ][ ? ][ ? ][ ? ][ ? ] 3  |
+[ ? ][ ? ][ ? ][ ? ][ ? ] 2  |
+[ ? ][ ? ][ ? ][ ? ][ ? ] 2 2|
+[ ? ][ ? ][ ? ][ ? ][ ? ] 2  |
+
+None
+tabuleiro_celula: argumentos invalidos
+tabuleiro_preenche_celula: argumentos invalidos
+Introduza a jogada
+- coordenada entre (1 : 1) e (5 : 5) >> - valor >> True
+False
+(2 : 2) --> 2
+None
+No runtime problems encountered.
+None
+
+} {O input 
+load_namespace(('coordenada','tabuleiro'))
+t = cria_tabuleiro((((2,),(3,),(2,),(2,2),(2,)), ((2,),(1,2),(2,),(3,),(3,))))
+escreve_tabuleiro(t)
+j1 = pede_jogada(t)
+(2 : 2)
+2
+reset_namespace()
+print('No runtime problems encountered.')
+
+ devia retornar 
+ 
+       1                   
+  2    2    2    3    3    
+[ ? ][ ? ][ ? ][ ? ][ ? ] 2  |
+[ ? ][ ? ][ ? ][ ? ][ ? ] 3  |
+[ ? ][ ? ][ ? ][ ? ][ ? ] 2  |
+[ ? ][ ? ][ ? ][ ? ][ ? ] 2 2|
+[ ? ][ ? ][ ? ][ ? ][ ? ] 2  |
+
+None
+Introduza a jogada
+- coordenada entre (1 : 1) e (5 : 5) >> - valor >> None
+No runtime problems encountered.
+None
+}

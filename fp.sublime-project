@@ -1,0 +1,23 @@
+{
+	"folders":
+	[
+		{
+			"path": "input"
+		},
+		{
+			"path": "extra"
+		},
+		{
+			"path": "comparador_outputs"
+		},
+		{
+			"path": "casos_teste"
+		},
+		{
+			"path": "codigo_fonte"
+		},
+		{
+			"path": "testes_erro"
+		}
+	]
+}

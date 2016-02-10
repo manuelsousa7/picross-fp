@@ -1,0 +1,675 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"esp",
+				"especificacao"
+			],
+			[
+				"valida_",
+				"valida_coordenada_cadeia"
+			],
+			[
+				"es",
+				"especificacoes"
+			],
+			[
+				"coordenada_",
+				"coordenada_cadeia"
+			],
+			[
+				"matriz",
+				"matriz_tabuleiro"
+			],
+			[
+				"tabuleiro",
+				"tabuleiro_posisao"
+			],
+			[
+				"coo",
+				"coordenada_linha"
+			],
+			[
+				"coordenada",
+				"coordenada_linha"
+			],
+			[
+				"ta",
+				"tabuleiro"
+			],
+			[
+				"for",
+				"forw	std::forward<T>(…)"
+			],
+			[
+				"en",
+				"endl"
+			],
+			[
+				"co",
+				"cout"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"cria",
+				"cria_coordenada"
+			],
+			[
+				"rotated",
+				"rotated3"
+			],
+			[
+				"rot",
+				"rotated2"
+			],
+			[
+				"tabu",
+				"tabuleiro"
+			],
+			[
+				"e_",
+				"e_coordenada"
+			],
+			[
+				"tab",
+				"tabuleiro"
+			],
+			[
+				"tabul",
+				"tabuleiro1"
+			],
+			[
+				"tuplo",
+				"tuploe_c"
+			],
+			[
+				"tu",
+				"tuple_original"
+			],
+			[
+				"max",
+				"max_y"
+			],
+			[
+				"compara",
+				"compara_agulha_fim"
+			],
+			[
+				"s",
+				"sizeof"
+			],
+			[
+				"AGULHA",
+				"AGULHA_DIREITA"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"docblo",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"sendto",
+				"SublimeSendToPasteBin: Paste Selected Text"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/E/Programs/Dropbox/Técnico/Fundamentos da Programação/Projeto 2/codigo_fonte/picross.py",
+		"/C/Users/Manuel Sousa/Desktop/New folder (2)/A.txt",
+		"/C/Users/Manuel Sousa/Desktop/New folder (2)/A.py",
+		"/C/Users/Manuel Sousa/Desktop/New folder (2)/A.cpp",
+		"/C/Users/Manuel Sousa/AppData/Roaming/Skype/My Skype Received Files/ewdwwfw.txt",
+		"/C/Users/Manuel Sousa/AppData/Roaming/Skype/My Skype Received Files/1.txt",
+		"/E/Programs/Dropbox/Técnico/FP2 - T & M/codigo_fonte/final.py",
+		"/E/Programs/Dropbox/Técnico/Fundamentos da Programação/Projeto 1/hondt-fp/dhont.py",
+		"/E/Programs/Dropbox/Técnico/FP2 - T & M/codigo_fonte/projeto2_abst.py",
+		"/C/Users/Manuel Sousa/Desktop/final.py",
+		"/C/Users/Manuel Sousa/Desktop/final.pt",
+		"/C/Users/Manuel Sousa/Desktop/projeto2_abst18_final.py",
+		"/C/Users/Manuel Sousa/AppData/Local/Temp/Rar$DIa0.878/supermercado-gui.py",
+		"/C/Users/Manuel Sousa/AppData/Local/Temp/Rar$DIa0.452/graphics.py",
+		"/C/Users/Manuel Sousa/AppData/Local/Temp/Rar$DIa0.388/estruturas.py",
+		"/E/Programs/Dropbox/Técnico/FP2 - T & M/testes_erro/test15.py",
+		"/E/Programs/Dropbox/Técnico/FP2 - T & M/testes_erro/test18.py",
+		"/E/Programs/Dropbox/Técnico/FP2 - T & M/casos_teste/casos_teste.txt",
+		"/E/Programs/Dropbox/Técnico/FP2 - T & M/input/jogo_fig1.txt",
+		"/E/Programs/Dropbox/Técnico/FP2 - T & M/input/jogo_fig2.txt",
+		"/E/Programs/Dropbox/Técnico/FP2 - T & M/input/jogo5x5.txt",
+		"/E/Programs/Dropbox/Técnico/FP2 - T & M/codigo_fonte/teste.py",
+		"/C/Users/Manuel Sousa/Desktop/asdasdsa.cpp",
+		"/E/Programs/Dropbox/Técnico/FP2 - T & M/codigo_fonte/projeto2.py",
+		"/E/Programs/Dropbox/Técnico/FP2 - T & M/codigo_fonte/projeto2_abst2.py",
+		"/C/Users/Manuel Sousa/Desktop/cfSWERC.cpp",
+		"/C/Users/Manuel Sousa/Desktop/New folder (2)/D.txt",
+		"/C/Users/Manuel Sousa/Desktop/aaa.py",
+		"/C/Users/Manuel Sousa/Desktop/New Text Document.txt",
+		"/C/Users/Manuel Sousa/Desktop/asdsadsa.py",
+		"/C/Users/Manuel Sousa/Desktop/New folder (2)/G.txt",
+		"/C/Users/Manuel Sousa/Desktop/New folder (2)/F.txt",
+		"/C/Users/Manuel Sousa/Desktop/New folder (2)/B.txt",
+		"/C/Users/Manuel Sousa/Desktop/New folder (2)/New Text Document.txt",
+		"/E/Programs/Dropbox/Técnico/FP2 - T & M/codigo_fonte/projeto2_com abstracção.py",
+		"/E/Programs/Dropbox/Técnico/FP2 - T & M/input/test18.txt",
+		"/E/Programs/Dropbox/Técnico/FP2 - T & M/testes_erro/test18.txt",
+		"/E/Programs/Dropbox/Técnico/FP2 - T & M/testes_erro/test16.txt",
+		"/C/Users/Manuel Sousa/Desktop/3222.py",
+		"/E/Programs/Dropbox/Técnico/FP2 - T & M/input/jogo3x3.txt",
+		"/E/Programs/Dropbox/Técnico/FP2 - T & M/casos_teste.txt",
+		"/E/Programs/Dropbox/Técnico/FP2 - T & M/abstracao.txt",
+		"/E/Programs/Dropbox/Técnico/FP2 - T & M/jogo5x5.log",
+		"/E/Programs/Dropbox/Técnico/FP2 - T & M/jogo5x5_nao_completo.log",
+		"/E/Programs/Dropbox/Técnico/FP2 - T & M/jogo5x5.txt",
+		"/E/Programs/Dropbox/Técnico/FP2 - T & M/jogo_fig1.txt",
+		"/E/Programs/Dropbox/Técnico/FP2 - T & M/jogo3x3.txt",
+		"/E/Programs/Dropbox/Técnico/FP2 - T & M/jogo_fig2.log",
+		"/E/Programs/Dropbox/Técnico/FP2 - T & M/jogo_fig2.txt",
+		"/E/Programs/Dropbox/Técnico/FP2 - T & M/projeto2.py",
+		"/E/Programs/Dropbox/Técnico/FP2 - T & M/file2.txt",
+		"/E/Programs/Dropbox/Técnico/FP2 - T & M/file.txt",
+		"/E/Programs/Dropbox/Técnico/FP2 - T & M/jogo3x3.log",
+		"/C/Users/Manuel Sousa/Desktop/AHHAHA.cpp",
+		"/E/Programs/Dropbox/Documentos/J_SWERC_WRONG.cpp",
+		"/C/Users/Manuel Sousa/AppData/Roaming/Skype/My Skype Received Files/Projeto.txt",
+		"/E/Programs/Dropbox/Técnico/FP2 - T & M/jogo_fig2_erros.log",
+		"/C/Users/Manuel Sousa/AppData/Roaming/Sublime Text 3/Packages/SendToPasteBin/SendToPasteBin.sublime-settings",
+		"/C/Users/Manuel Sousa/AppData/Roaming/Sublime Text 3/Packages/SendToPasteBin/README.md",
+		"/C/Users/Manuel Sousa/AppData/Roaming/Sublime Text 3/Packages/User/SendToPasteBin.sublime-settings",
+		"/C/Users/Manuel Sousa/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/E/Programs/Dropbox/Técnico/Fundamentos da Programação/Projeto 2/p2.py",
+		"/C/Users/Manuel Sousa/Desktop/asdsad.cpp",
+		"/C/Users/Manuel Sousa/Desktop/solio/D/code/DiceCup2.java",
+		"/C/Users/Manuel Sousa/Desktop/solio/D/code/DiceCup.java",
+		"/C/Users/Manuel Sousa/Desktop/solio/G/code/bf_tle.cpp",
+		"/C/Users/Manuel Sousa/Desktop/solio/G/code/maraujo.cpp",
+		"/E/Programs/Dropbox/Técnico/Fundamentos da Programação/Projeto 2/teste2.py",
+		"/E/Programs/Dropbox/Técnico/Fundamentos da Programação/Projeto 2/teste.py",
+		"/E/Programs/Dropbox/Técnico/Fundamentos da Programação/Projeto 2/aa.cpp",
+		"/E/Programs/Dropbox/Técnico/Fundamentos da Programação/Projeto 2/teste2",
+		"/C/Users/Manuel Sousa/Desktop/link.inesc-id.pt/sp/fp.cgi",
+		"/E/Programs/Dropbox/Técnico/Fundamentos da Programação/Aulas de Problemas/ficheiros/teste.txt",
+		"/E/Programs/Dropbox/Técnico/Fundamentos da Programação/Aulas de Problemas/ficheiros/p2.py",
+		"/E/Programs/Dropbox/Técnico/Fundamentos da Programação/Aulas de Problemas/ficheiros/p1.py",
+		"/C/Users/Manuel Sousa/Desktop/solio/I/code/text_processor_moliveira.cpp",
+		"/C/Users/Manuel Sousa/Desktop/solio/I/code/text_processor_brute_tle.cpp",
+		"/C/Users/Manuel Sousa/Desktop/A_TC.cpp",
+		"/E/Programs/Dropbox/Técnico/Introdução à Arquitetura de Computadores/proj/projeto_codigo_final.asm",
+		"/C/Users/Manuel Sousa/AppData/Local/Temp/Rar$DIa0.956/2.out",
+		"/C/Users/Manuel Sousa/AppData/Local/Temp/Rar$DIa0.044/30_extra.in",
+		"/C/Users/Manuel Sousa/AppData/Local/Temp/Rar$DIa0.691/2.in",
+		"/C/Users/Manuel Sousa/AppData/Local/Temp/Rar$DIa0.832/30_extra.out",
+		"/E/Programs/Dropbox/Documentos/J.cpp",
+		"/C/Users/Manuel Sousa/Desktop/solio/J/code/balloons_moliveira.cpp",
+		"/C/Users/MANUEL~1/AppData/Local/Temp/Rar$DRa0.833/jogo_fig2.log",
+		"/C/Users/Manuel Sousa/AppData/Local/Temp/Rar$DIa0.181/jogo_fig1.txt",
+		"/E/Programs/Dropbox/Gurus do IST/projeto_codigo_final.asm",
+		"/E/Programs/Dropbox/Técnico/Introdução à Arquitetura de Computadores/proj/projeto_codigo_com_agulhas.asm",
+		"/E/Programs/Dropbox/Técnico/Introdução à Arquitetura de Computadores/Laboratório/Aula 9/lab9-1.asm",
+		"/E/Programs/Dropbox/Técnico/Introdução à Arquitetura de Computadores/Laboratório/Aula 9/lab9-2.asm",
+		"/E/Programs/Dropbox/Técnico/Introdução à Arquitetura de Computadores/Laboratório/Aula 9/lab9-3.asm",
+		"/C/Users/Manuel Sousa/AppData/Local/Temp/Rar$DIa0.418/jogo5x5.txt",
+		"/C/Users/Manuel Sousa/AppData/Local/Temp/Rar$DIa0.687/jogo_fig2.txt",
+		"/E/Programs/Dropbox/Técnico/Fundamentos da Programação/Projeto 2/inputs.txt",
+		"/C/Users/Manuel Sousa/Desktop/J.cpp",
+		"/E/Programs/Dropbox/Documentos/Competitive Programming/manuelsousa_template.cpp",
+		"/E/Programs/Dropbox/Técnico/Introdução à Arquitetura de Computadores/proj/grupo1.asm",
+		"/E/Programs/Dropbox/Técnico/Introdução à Engenharia Informática (IEI)/codigos_openconf.txt",
+		"/E/Programs/Dropbox/Técnico/Introdução à Engenharia Informática (IEI)/Aulas 13-14 RTG/27-10-2015.txt",
+		"/E/Programs/Dropbox/Técnico/Introdução à Engenharia Informática (IEI)/Aulas 13-14 RTG/openconf.txt",
+		"/C/Users/Manuel Sousa/Desktop/apt_brute.c",
+		"/C/Users/Manuel Sousa/Desktop/A.cpp",
+		"/E/Programs/Dropbox/Documentos/Competitive Programming/L.cpp",
+		"/C/Users/Manuel Sousa/Desktop/cffffasdasdas.cpp",
+		"/C/Users/Manuel Sousa/Desktop/apt_greatSwerc.c",
+		"/E/Programs/Dropbox/Técnico/Fundamentos da Programação/Aulas de Problemas/lesson09/1.py",
+		"/E/Programs/Dropbox/Técnico/Fundamentos da Programação/Aulas de Problemas/lesson09/2.py",
+		"/E/Programs/Dropbox/Técnico/Fundamentos da Programação/Aulas de Problemas/lesson09/aval.py",
+		"/E/Programs/Dropbox/Técnico/Fundamentos da Programação/Aulas de Problemas/2 (DESKTOP-NDMRA33's conflicted copy 2015-11-17).py",
+		"/E/Programs/Dropbox/Gurus do IST/projeto_codigo1.asm",
+		"/E/Programs/Dropbox/Técnico/Fundamentos da Programação/Teoricas/18-11-2015.py",
+		"/E/Programs/Dropbox/Técnico/Introdução à Arquitetura de Computadores/Laboratório/Aula 8/lab8-2.asm",
+		"/E/Programs/Dropbox/Técnico/Introdução à Arquitetura de Computadores/Laboratório/Aula 8/lab8-1.asm",
+		"/C/Users/Manuel Sousa/Desktop/st.cpp",
+		"/C/Users/Manuel Sousa/Desktop/swerc trainning",
+		"/C/Users/Manuel Sousa/Desktop/asd.html",
+		"/E/Programs/Dropbox/Técnico/Introdução à Arquitetura de Computadores/proj/projeto_codigo.asm",
+		"/C/Users/Manuel Sousa/Desktop/AA.cpp",
+		"/E/Programs/Dropbox/Técnico/Fundamentos da Programação/Aulas de Problemas/lesson7/aval.py",
+		"/E/Programs/Dropbox/Documentos/Competitive Programming/Geral/codeforces/332/A.cpp",
+		"/E/Programs/Dropbox/Documentos/Competitive Programming/Geral/codeforces/332/B.cpp",
+		"/E/Programs/Dropbox/Técnico/Fundamentos da Programação/Aulas de Problemas/2.py",
+		"/E/Programs/Dropbox/Técnico/Fundamentos da Programação/Aulas de Problemas/lesson06/teste.cpp",
+		"/E/Programs/Dropbox/Gurus do IST/projeto_codigo.asm",
+		"/C/Users/Manuel Sousa/Downloads/final3.0.py",
+		"/E/Programs/Dropbox/Técnico/Fundamentos da Programação/Aulas de Problemas/lesson06/4.py",
+		"/E/Programs/Dropbox/Técnico/Fundamentos da Programação/Aulas de Problemas/lesson08/aval.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"escreve_tab",
+			"_iguais(",
+			"iguais",
+			"tabuleiro_cel",
+			"tabuleiro_celula",
+			"universal",
+			"e_tabuleiro",
+			"_iguais",
+			"espe_linhas",
+			"espe_colunas",
+			"valueerro",
+			"tabuleiro_celulas",
+			"cria_coordenada",
+			"Value",
+			"value",
+			"Value",
+			"value",
+			"e_tabule",
+			"linhas",
+			"[l",
+			"valida_coordenada",
+			"posisao_caracter",
+			"escreve",
+			"c",
+			"lc",
+			"tabuleiro_comple",
+			"'?'",
+			"celulas",
+			"matriz",
+			"obtem_celulas",
+			"celulas",
+			"obtem_celulas",
+			"tabuleiro_preenche",
+			"jogo_picros",
+			"tabuleiro_posisao",
+			"print",
+			"tabuleiro_celula",
+			"obtem_celulas",
+			"def tabuleiro_",
+			"tabuleiro_posisao",
+			"tabuleiro_especificacoes",
+			"calcula",
+			"print(",
+			"print(\"",
+			"tabuleiro[0][0]",
+			"escreve_tabuleir",
+			"print(\"",
+			"tabuleiro[0][1]",
+			"tabuleiro[0]",
+			"print(\"",
+			"def tab",
+			"tabuleiro_posi",
+			"def tabu",
+			"e_t",
+			"PRINT(TAB",
+			"escreve_ta",
+			"tabuleiro_preenche_celula",
+			"tabuleiro_completo",
+			"calcula_profundidade",
+			"e_tabule",
+			"coordenada_coluna",
+			"coordenada_coluna(tabu",
+			"coordenada_linha(tabu",
+			"coordenada_",
+			"coordenada_coluna(",
+			"coordenada_coluna(tabule",
+			"pede_jogada",
+			"tabuleiro_dimensoes",
+			"coordenada_linha(tabu",
+			"tabuleiro_dimensoes(tabuleiro)[0]",
+			"coordenada_linha(tabuleiro_dimen",
+			"coordenada_linha(tabuleiro_dimensoes(t))\n",
+			"tabuleiro_dimensoes(T)",
+			"tabuleiro_dimensoes(T)[0]",
+			"tabuleiro_dimensoes",
+			"tabuleiro",
+			"coordenada_linha",
+			"tabuleiro_dimen",
+			"tabuleiro_dimensoes",
+			"e_tabuleiro",
+			"FALHA ",
+			"mooshak 1",
+			"e_tabuleiro",
+			"escreve_tabule",
+			"tabuleiro_dimensoes(T)",
+			"tabuleiro_dimensoes(T)[",
+			"cria_jogada",
+			"cria_coordenada",
+			"valida_coordenada",
+			"coordenada_linha",
+			"tabuleiro_dimensoes",
+			"tabuleiro_dimensoes(",
+			")[",
+			"tabuleiro_celulas",
+			"tabuleiro_cheio",
+			"pede_jogada",
+			"maior_pilha",
+			"jogo_picro",
+			"tabuleiro_cheio",
+			"celulas",
+			"tabuleiro_celulas_vazias",
+			">\n",
+			"#include <iostream>",
+			"cria_tab",
+			"e_coordenada",
+			"tabuleiro_celula",
+			"tabuleiro_completo",
+			"celulas_va",
+			"celulas_vazias",
+			"celulas",
+			"tabuleiro_compl",
+			"Jogada invalida",
+			"celulas_va",
+			"def cria_tabuleir",
+			"def coordenada_para",
+			"cria_tabuleiro",
+			"coordenada_linha",
+			"jogada')\n",
+			"')",
+			"print('Introduza a jogada')",
+			"e_tabuleiro",
+			"e_coordenada",
+			"e_tabuleiro",
+			"cria_coordenada",
+			"tabuleiro_dimensoes",
+			"coordenada_coluna",
+			"tabuleiro_dimensoes",
+			"e_coordenada"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"especificacoes_linhas",
+			"especificacoes_colunas",
+			"valida_coordenada_cadeia",
+			"numero_caracter",
+			"matriz_tabuleiro",
+			"posisao_caracter",
+			"espe_linhas",
+			"espe_colunas",
+			"tabuleiro_dimensoes(T)[0]",
+			"tabuleiro_celulas_vazias",
+			"calcula_profundidade",
+			"\"fp.cgi_",
+			"\"fp.cgi?",
+			"\"",
+			"\\",
+			"b_n",
+			"bb",
+			"b_n",
+			"b_i",
+			"#define",
+			"f_i",
+			"f_n",
+			"b_n",
+			"tabela_simbolos",
+			"\"",
+			"lc",
+			"coord",
+			"vetor",
+			"linhas",
+			"inc",
+			"passa",
+			"flag",
+			"resp",
+			"conta",
+			"xa",
+			"xb",
+			"ya",
+			"yb",
+			"coordenadas"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/pythonREPL.sublime-build",
+	"project": "fp.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"proje",
+				"E:\\Programs\\Dropbox\\Técnico\\FP2 - T & M\\projeto2.py"
+			],
+			[
+				"projet",
+				"E:\\Programs\\Dropbox\\Técnico\\FP2 - T & M\\projeto2.py"
+			],
+			[
+				"",
+				"E:\\Programs\\Dropbox\\Técnico\\FP2 - T & M\\jogo3x3.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 174.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
